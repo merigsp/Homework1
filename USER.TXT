@@ -1,3 +1,0 @@
-ProductName:		macOS
-ProductVersion:		13.2
-BuildVersion:		22D49
