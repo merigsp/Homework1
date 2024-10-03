@@ -1,3 +1,15 @@
 ProductName:		macOS
 ProductVersion:		13.2
 BuildVersion:		22D49
+
+System Software Overview:
+
+      System Version: macOS 13.6.9 (22G830)
+      Kernel Version: Darwin 22.6.0
+      Boot Volume: Macintosh HD
+      Boot Mode: Normal
+      Computer Name: MacBook Air — Mery
+      User Name: Mery Gasparyan (merigasparan)
+      Secure Virtual Memory: Enabled
+      System Integrity Protection: Enabled
+      Time since boot: 22 часа 8 минут
